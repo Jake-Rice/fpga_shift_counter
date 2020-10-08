@@ -25,3 +25,7 @@ To set up the LED circuit you will need:
 * 8 LEDs (I used blue ones)
 * 8 current limiting resistors for the LEDs (I used 100-ohms, other color LEDs may require a higher value)
 * A 10k-ohm resistor and a 10uF capacitor (to pull the shift register output enable pin high/off during FPGA power-up)
+
+Here is an image of the assembled breadboard circuit:
+
+![assembled breadboard LED circuit](https://github.com/Jake-Rice/shift_counter/blob/main/shift_counter%20breadboard.png)
