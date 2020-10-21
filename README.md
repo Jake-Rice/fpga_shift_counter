@@ -1,4 +1,4 @@
-# shift_counter
+# fpga_shift_counter
 Simple FPGA design in Verilog for the Digilent Cmod A7 that drives LEDs in a binary counting pattern using an external 74HC595 shift register.
 
 ## Table of contents
